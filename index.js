@@ -1,3 +1,3 @@
-function myWonderfulFunc() {
-  console.log('doing something complicated!!')
+function myWonderfulFunc(a, b) {
+  return a + b;
 }
