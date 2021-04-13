@@ -1,3 +1,3 @@
 function myWonderfulFunc() {
-  console.log('hello')
+  console.log('doing something complicated!!')
 }
