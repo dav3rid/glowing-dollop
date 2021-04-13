@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dav3rid/glowing-dollop/issues"
   },
-  "homepage": "https://github.com/dav3rid/glowing-dollop#readme"
+  "homepage": "https://github.com/dav3rid/glowing-dollop#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
 }
